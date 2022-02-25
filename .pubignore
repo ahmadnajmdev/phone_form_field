@@ -1,3 +1,5 @@
+docs/
+example/build
 # Miscellaneous
 *.class
 *.log
@@ -27,4 +29,3 @@
 .dart_tool/
 .packages
 build/
-example/build
